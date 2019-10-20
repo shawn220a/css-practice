@@ -1,38 +1,38 @@
-.red {
+#red {
     color: red;
 }
 
-.blue   {
+#blue   {
     color: blue;
 }
 
-.green {
+#green {
     color: green;
 }
 
-.sizeBig {
+#sizeBig {
     font-size: 30px;
 }
 
-.sizeTiny {
+#sizeTiny {
     font-size: 8px;
 }
 
-.bold{
+#bold{
     font-weight: bold;
 }
 
-.family {
+#family {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.multiple {
+#multiple {
     font-weight: bold;
     color: orange;
     font-size: 24px;
 }
 
-.center, h1 {
+#center, h1 {
     text-align: center;
 }
 
@@ -40,7 +40,7 @@
     color: green;
 }
 
-img {
+#styledImage {
     border-color: orange;
     border-style: solid;
     border-width: .5rem;
